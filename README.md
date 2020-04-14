@@ -11,7 +11,7 @@ In tobacco_test_pairs.txt file, all positive and negative signature pairs have b
 signature_path_1 signature_path_2 0/1
 ```
 0 indicates negative pair (no match) and 1 indicates positive pair (match).
-Also, all training, validation and test signatures with their names are in train.txt, val.txt and test.txt respectively.
+Also, all training, validation and test signature ids used in training process of the network are in classification_train.txt, classification_val.txt, classification_test.txt respectively.
 
 Citation information of our paper will appear here after publication has been released. 
 
