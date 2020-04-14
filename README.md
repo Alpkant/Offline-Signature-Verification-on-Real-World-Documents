@@ -1,5 +1,5 @@
 # Offline Signature Verification on Real-World Documents
-This is the official repository of our CVPRW2020 Biometrics Workshop paper "Offline Signature Verification on Real-World Documents". This repository contains Tobacco-800 Signature pairs to simulate a signature verification  
+This is the official repository of our CVPRW2020 Biometrics Workshop paper "Offline Signature Verification on Real-World Documents". This repository contains Tobacco-800 dataset signature pairs to simulate a signature verification setup. Tobacco-800 is not focuses on signature verification but it contains real world documents with signatures. Therefore, we structured the signature pairs by using author informations to create a signature verification setup.  
 
 ## Tobacco-800 Signature Pairs
 All signatures that have been extracted from Tobacco-800 dataset [1] are named with page name used in annotations. Some signatures have been removed due to mislabeling and no valid ID issues. 
