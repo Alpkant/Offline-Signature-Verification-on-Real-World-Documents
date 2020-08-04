@@ -13,6 +13,15 @@ signature_path_1 signature_path_2 0/1
 0 indicates negative pair (no match) and 1 indicates positive pair (match).
 Also, all training, validation and test signature ids used in training process of the network are in classification_train.txt, classification_val.txt, classification_test.txt respectively.
 
-Citation information of our paper will appear here after publication has been released. 
+If you use this setup on your research, please cite our paper which presents this work.
+```
+@InProceedings{Engin_2020_CVPR_Workshops,
+author = {Engin, Deniz and Kantarci, Alperen and Arslan, Secil and Ekenel, Hazim Kemal},
+title = {Offline Signature Verification on Real-World Documents},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
+} 
+```
 
 [1]: David Lewis, Gady Agam, Shlomo Argamon, Ophir Frieder,D Grossman, and Jefferson Heard. Building a test collectionfor complex document information processing.  InProceed-ings of the 29th annual International ACM SIGIR Confer-ence on Research and Development in Information Retrieval,pages 665–666, 2006
